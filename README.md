@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">My journey into tech started with an early curiosity, leading me to study <b>CCNA</b>. After moving to a new country I gained a hands on experience in <b>CISCO Video Conferencing</b> as a <b>Video conference cordinator</b> and that experience led to my current role as a <b>Technical Director in virtual event production</b> where I ensured seemless live broadcasts and online experiences. <br><br>My journey has led me to develop a passion for <strong>cybersecurity and cloud technologies</strong>—because securing digital spaces is just as thrilling as creating them! My experience in <strong>networking, system administration, access management, and troubleshooting under pressure</strong> has given me a strong foundation for cybersecurity. I am now eager to transition into this field.</p>
+<p align="left">&#128187 I have always had a thing for tech, with my early curiosity leading me to study <b>CCNA</b>. However, after moving to a new country I gained a hands on experience in <b>CISCO Video Conferencing</b> as a <b>Video conference cordinator</b> and that experience led to my current role as a <b>Technical Director in virtual event production</b> where I ensured seemless live broadcasts and online experiences. <br><br>&#128640 My journey has led me to develop a passion for <strong>cybersecurity and cloud technologies</strong>—because securing digital spaces is just as thrilling as creating them! My experience in <strong>networking, system administration, access management, and troubleshooting under pressure</strong> has given me a strong foundation for cybersecurity. I am now eager to transition into this field.</p>
 
 ###
 
