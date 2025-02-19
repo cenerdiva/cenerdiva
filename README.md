@@ -72,7 +72,7 @@ Frameworks
   </tr>
   <tr>
     <td>Querying Logs in Splunk</td>
-    <td> <a href="https://github.com/cenerdiva/Splunk-Log-Analysis./blob/main/README.md">Splunk Analysis</a> </td>
+    <td> <a href="https://github.com/cenerdiva/Splunk-Log-Analysis./blob/main/README.md">Splunk Log Analysis</a> </td>
   </tr>
   <tr>
     <td>Skill two</td>
