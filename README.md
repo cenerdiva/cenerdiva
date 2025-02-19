@@ -84,6 +84,14 @@ Frameworks
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/cenerdiva/cenerdiva/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<br clear="both">
+
 ###
 
 <br clear="both">
