@@ -71,8 +71,8 @@ Frameworks
     <th>Associated Project</th>
   </tr>
   <tr>
-    <td>Skill one</td>
-    <td>project one</td>
+    <td>Querying Logs in Splunk</td>
+    <td> <a href="https://github.com/cenerdiva/Splunk-Log-Analysis./blob/main/README.md">Splunk Analysis</a> </td>
   </tr>
   <tr>
     <td>Skill two</td>
