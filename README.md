@@ -76,7 +76,7 @@ Frameworks
   </tr>
   <tr>
      <td>Network Analysis</td>
-    <td> <a href="https://github.com/cenerdiva/Network-Analysis-Malware-Compromise./blob/main/README.md">Network Analysis - Malware Compromise</a> </td>
+    <td> <a href="https://github.com/cenerdiva/Network-Analysis-Malware-Compromise">Network Analysis - Malware Compromise</a> </td>
   </tr>
 </table>
 
