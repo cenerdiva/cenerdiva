@@ -75,8 +75,8 @@ Frameworks
     <td> <a href="https://github.com/cenerdiva/Splunk-Log-Analysis./blob/main/README.md">Splunk Log Analysis</a> </td>
   </tr>
   <tr>
-    <td>Skill two</td>
-    <td>project two</td>
+     <td>Network Analysis</td>
+    <td> <a href="https://github.com/cenerdiva/Network-Analysis-Malware-Compromise./blob/main/README.md">Network Analysis - Malware Compromise</a> </td>
   </tr>
 </table>
 
